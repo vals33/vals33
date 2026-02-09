@@ -1,37 +1,53 @@
+<!-- 🌸 Cute Pink GitHub Profile README 🌸 -->
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ea_.vale) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@ea._vale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valeeeyy0@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vals33&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vals33&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vals33&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🌷✨ **Hi, I'm vale** ✨🌷  
+*coding with love & caffeine* ☕💻  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vals33&theme=calm_pink&no-frame=true&no-bg=false&margin-w=4)
+![pink divider](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vals33&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎀 About Me
+### 🎀 About Me
+- 🎒 I.T.I.S. C.Zuccante
+- 🌸 clean code? yeah, but firstly I make it work bad
 
-## 👾 Pacman
-<!--- Source: https://github.com/abozanona/pacman-contribution-graph -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output-pacman/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output-pacman/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/acidicoala/acidicoala/output-pacman/pacman-contribution-graph.svg">
-</picture>
 
-## 🐍 Snake
-<!--- Source: https://github.com/Platane/snk -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output-snake/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output-snake/github-snake.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/acidicoala/acidicoala/output-snake/github-snake.svg">
-</picture>
+---
+
+### 💻 Tech I Use
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-ffb6c1?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-ffc0cb?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-ff85a2?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 🌸 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=rose_pine"/>
+</p>
+
+---
+
+### 💌 Let’s Be Friends
+- 💕 Instagram: `@ea_.vale`
+- 🐦 Tiktok: `@ea._vale`
+- 💌 Email: `valeeeyy0@gmail.com`
+
+---
+
+<div align="center">
+
+
+
+</div>
+
