@@ -28,14 +28,6 @@
 
 ---
 
-### 🌸 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=rose_pine"/>
-</p>
-
----
 
 ### 💌 Let’s Be Friends
 - 💕 Instagram: `@ea_.vale`
