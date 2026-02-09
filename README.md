@@ -18,6 +18,12 @@
 
 
 ---
+<p align="center">
+  <img src="https://media.tenor.com/8D6y1x8yZ7wAAAAi/hello-kitty.gif" width="60"/>
+  <img src="https://media.tenor.com/9kE8pQpXG1kAAAAi/my-melody.gif" width="60"/>
+  <img src="https://media.tenor.com/1Z7y7vKkE1UAAAAi/cinnamoroll.gif" width="60"/>
+</p>
+---
 
 ### 💻 Tech I Use
 <p align="center">
@@ -28,8 +34,9 @@
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=250&section=header&text=PALLINA&fontSize=70&fontColor=ffffff&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=ff69b4&height=220&section=header&text=PALLINA&fontSize=60&fontColor=ffffff" />
 </p>
+
 ---
 
 ### 💌 Let’s Be Friends
