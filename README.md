@@ -19,9 +19,7 @@
 
 ---
 <p align="center">
-  <img src="https://media.tenor.com/8D6y1x8yZ7wAAAAi/hello-kitty.gif" width="60"/>
-  <img src="https://media.tenor.com/9kE8pQpXG1kAAAAi/my-melody.gif" width="60"/>
-  <img src="https://media.tenor.com/1Z7y7vKkE1UAAAAi/cinnamoroll.gif" width="60"/>
+  🌸 🧁 🍓 🎀 🩷 🌷 🐰 ☁️ ⭐
 </p>
 ---
 
