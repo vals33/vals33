@@ -21,8 +21,6 @@
 
 ### 💻 Tech I Use
 <p align="center">
-### 💻 Tech I Use
-<p align="center">
   <img src="https://img.shields.io/badge/-C++-ffb6c1?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-ff69b4?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-ffc0cb?style=for-the-badge&logo=python&logoColor=white"/>
