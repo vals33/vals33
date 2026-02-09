@@ -27,7 +27,10 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=250&section=header&text=PALLINA&fontSize=70&fontColor=ffffff&fontAlignY=40" />
+</p>
+---
 
 ### 💌 Let’s Be Friends
 - 💕 Instagram: `@ea_.vale`
