@@ -19,3 +19,19 @@
 [![](https://visitcount.itsvg.in/api?id=vals33&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 👾 Pacman
+<!--- Source: https://github.com/abozanona/pacman-contribution-graph -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output-pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output-pacman/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/acidicoala/acidicoala/output-pacman/pacman-contribution-graph.svg">
+</picture>
+
+## 🐍 Snake
+<!--- Source: https://github.com/Platane/snk -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output-snake/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output-snake/github-snake.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/acidicoala/acidicoala/output-snake/github-snake.svg">
+</picture>
