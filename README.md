@@ -30,11 +30,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=ff69b4&height=220&section=header&text=PALLINA&fontSize=60&fontColor=ffffff" />
-</p>
 
----
 
 ### 💌 Let’s Be Friends
 - 💕 Instagram: `@ea_.vale`
