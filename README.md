@@ -2,8 +2,7 @@
 
 <div align="center">
 
-🌷✨ **Hi, I'm vale** ✨🌷  
-*coding with love & caffeine* ☕💻  
+
 
 ![pink divider](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header)
 
@@ -19,7 +18,7 @@
 
 ---
 <p align="center">
-  🌸 🧁 🍓 🎀 🩷 🌷 🐰 ☁️ ⭐
+ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:
 </p>
 ---
 
