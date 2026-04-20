@@ -1,47 +1,62 @@
-<!-- 🌸 Cute Pink GitHub Profile README 🌸 -->
+<!-- ✦ Pink / Black Aesthetic GitHub Profile README ✦ -->
 
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:ff4da6&height=130&section=header)
 
-
-![pink divider](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header)
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&color=FF4DA6&center=true&vCenter=true&width=500&lines=hi,+i'm+[TUO_USERNAME];coding+in+my+own+lane;clean,+calculated,+consistent" />
 
 </div>
 
 ---
 
-
 ### 🎀 About Me
-- 🎒 I.T.I.S. C.Zuccante
-- 🌸 clean code? yeah, but firstly I make it work bad
-
+- 🎒 I.T.I.S. C. Zuccante  
+- 💻 building while learning  
+- 🎯 make it work → make it better → make it clean  
+- 🎧 coding, music on, world off  
 
 ---
+
 <p align="center">
- ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:
+✦ ✦ ✦
 </p>
 
+---
 
 ### 💻 Tech I Use
 <p align="center">
-  <img src="https://img.shields.io/badge/-C++-ffb6c1?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-ff69b4?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-ffc0cb?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-0f0f0f?style=for-the-badge&logo=cplusplus&logoColor=ff4da6"/>
+  <img src="https://img.shields.io/badge/-Java-ff4da6?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-1a1a1a?style=for-the-badge&logo=python&logoColor=ff4da6"/>
 </p>
 
 ---
 
+### 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[TUO_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff4da6&icon_color=ff4da6"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=[TUO_USERNAME]&theme=tokyonight&hide_border=true&ring=ff4da6&fire=ff4da6"/>
+</p>
+
+---
+
+### ✦ Note
+<p align="center">
+  <i>all eyes on the code.</i>
+</p>
+
+---
 
 ### 💌 Let’s Be Friends
-- 💕 Instagram: `@ea_.vale`
-- 🐦 Tiktok: `@ea._vale`
-- 💌 Email: `valeeeyy0@gmail.com`
+- 💕 Instagram: `@ea_.vale`  
+- 🎵 TikTok: `@ea._vale`  
+- 💌 Email: `valeeeyy0@gmail.com`  
 
 ---
 
 <div align="center">
 
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff4da6,100:0f0f0f&height=130&section=footer)
 
 </div>
-
