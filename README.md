@@ -1,97 +1,26 @@
-<!-- ✦ PINK README WITH MEMES ✦ -->
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&height=200&section=header&text=VAL%20🎀&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4da6,50:ffc0cb,100:ffe6f2&height=220&section=header&text=VAL&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
+# 🌸 Welcome to my profile 🌸
 
-# 💖 VAL
-
-### *main character energy, always*
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=2000&pause=800&color=FF4DA6&center=true&vCenter=true&width=600&lines=learning+fast;building+daily;glow+up+in+progress" />
-
-</div>
+<img src="https://img.shields.io/badge/STATUS-CODING%20IN%20PINK-ff69b4?style=for-the-badge&logo=heart&logoColor=white">
 
 ---
 
-# 💅 ABOUT ME
+### 🎀 WHOAMI
+- **Name:** `val` ✨
+- **Role:** `developer`
+- **School:** `I.T.I.S. C. Zuccante`
+- **Vibe:** `aesthetic / pink / focused`
 
-## 🎓 I.T.I.S. C. Zuccante  
-## 💻 I code every day  
-## 🧠 focused on improving  
-## 🎯 no excuses, just progress  
+### 🍰 SYSTEM CONFIG
+```json
+{
+  "focus": "maximum",
+  "mood": "pink",
+  "coffee": "required",
+  "bugs": "fixing_with_love"
+}
+🧠 TECH STACKLanguageLove LevelC++💖💖💖💖🖤Java💖💖💖🖤🖤Python💖💖💖💖💖💻 CURRENT STATE🎀 Coding with style🌷 Refactoring logic🍭 Creating cute things☁️ Dreaming in code🔐 MINDSET"Turning coffee into pink code and dreams into reality."📡 CONTACT<p align="left"><a href="mailto:valeeeyy0@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-valeeeyy0%2540gmail.com-ffb6c1%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite"></a><a href="https://www.google.com/search?q=https://www.instagram.com/ea_.vale"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-%40ea_.vale-ff69b4%3Fstyle%3Dflat-square%26logo%3Dinstagram%26logoColor%3Dwhite"></a><a href="https://www.google.com/search?q=https://www.tiktok.com/%40ea._vale"><img src="https://www.google.com/search?q=https://img.shields.io/badge/TikTok-%40ea._vale-000000%3Fstyle%3Dflat-square%26logo%3Dtiktok%26logoColor%3Dwhite"></a></p><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3Dffb6c1%26height%3D30%26section%3Dfooter"/></div>
+-----
 
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
-
-### *me after fixing a bug for 2 hours*
-
-</div>
-
----
-
-# 🛠️ STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python" height="70"/>
-
-</div>
-
----
-
-# 📊 STATS
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=radical&hide_border=true&title_color=ff4da6&icon_color=ff4da6"/>
-<img height="180" src="https://streak-stats.demolab.com?user=TUO_USERNAME&theme=radical&hide_border=true&ring=ff4da6&fire=ff4da6"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="250"/>
-
-### *me pretending I understand my own code*
-
-</div>
-
----
-
-# 💖 MINDSET
-
-## consistency > motivation  
-## discipline > talent  
-## results > talk  
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250"/>
-
-### *when everything finally works*
-
-</div>
-
----
-
-# 📲 CONNECT
-
-## instagram → @ea_.vale  
-## tiktok → @ea._vale  
-## email → valeeeyy0@gmail.com  
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe6f2,50:ffc0cb,100:ff4da6&height=160&section=footer"/>
-
-</div>
