@@ -4,7 +4,6 @@
 # 🎀 ✨ 𝓅𝒾𝓃𝓀 𝒹𝑒𝓋 𝑒𝓇𝒶 ✨ 🎀
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-KAWAII%20CODER-ff1493?style=for-the-badge&logo=pinkberry&logoColor=white">
   <img src="https://img.shields.io/badge/-Zuccante%20Student-ff69b4?style=for-the-badge&logo=heart&logoColor=white">
 </p>
 
