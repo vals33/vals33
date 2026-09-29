@@ -18,7 +18,7 @@
 ### 🍭 𝓈𝓎𝓈𝓉𝑒𝓂 𝓈𝓉𝒶𝓉𝓈
 > `[` ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ `]` — **PINK ENERGY**
 > 
-> `[` 💖 💖 💖 💖 💖 💖 💖 🤍 🤍 `]` — **FOCUS LEVEL**
+> `[` 💖 🤍 🤍 🤍 🤍 🤍 🤍 🤍 🤍 `]` — **FOCUS LEVEL**
 
 ### 🧠 𝓂𝓎 𝓈𝓉𝒶𝒸𝓀
 `C++` 🎀 `Java` 🎀 `Python`
@@ -26,7 +26,7 @@
 ---
 
 ### 💻 𝓌𝒽𝒶𝓉 𝒾'𝓂 𝒹𝑜𝒾𝓃𝑔
-* 💗 **coding every single day**
+* 💗 **coding every single day (nah) **
 * 🌷 **refactoring with love**
 * 🎀 **breaking & fixing things**
 * ✨ **staying aesthetic**
